@@ -1,6 +1,7 @@
 # HelpDesk
 
-HelpDesk is a C# console application (.NET 8) that centralizes IT/ERP support behind a fast, keyboard-driven menu: info hub, guided database actions (generates ready-to-run SQL statements), applications installer & components, access to drivers & documents, leave-request generator, and OSMR management. It is the lightweight predecessor of **PlusConnect** - an internal WinForms (.NET 8) desktop application.
+HelpDesk is a C# console application (.NET 8) that centralizes IT/ERP support behind a fast, keyboard-driven menu: info hub, guided database actions (generates ready-to-run SQL statements), applications installer & components, access to drivers & documents, leave-request generator, and OSMR management. 
+It is the lightweight predecessor of **PlusConnect** - an internal WinForms (.NET 8) desktop application.
 
 ## Why
 
