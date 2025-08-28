@@ -23,4 +23,4 @@ Reduce context switching and speed up routine support tasks by providing a singl
 
 Internal desktop application developed in C# (WinForms, .NET 8.0). Designed to optimize ERP workflows by automating critical processes (database creation, collection setup, resource management) and simplifying client management across multiple environments. Includes AES-encrypted consultant mode and auto-update system.
 
-![HelpDesk screenshot](docs/assets/plusconnect.png.png)
+![HelpDesk screenshot](docs/assets/plusconnect.png)
